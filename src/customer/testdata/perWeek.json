@@ -1,0 +1,31 @@
+[
+    {
+        "time" : "Mon",
+        "number" : 102
+    },
+    {
+        "time" : "Tue",
+        "number" : 150
+    },
+    {
+        "time" : "Wed",
+        "number" : 145
+    },
+    {
+        "time" : "Thu",
+        "number" : 187
+    },
+    {
+        "time" : "Fri",
+        "number" : 230
+    },
+    {
+        "time" : "Sat",
+        "number" : 225
+    },
+    {
+        "time" : "Sun",
+        "number" : 197
+    }
+]
+
