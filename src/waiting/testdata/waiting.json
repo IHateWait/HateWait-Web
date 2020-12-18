@@ -1,0 +1,26 @@
+[
+    {
+        "phone": "010-1234-1234",
+        "name": "김수찬",
+        "people_number": 4,
+        "called_time": "대기중"
+    },
+    {
+        "phone": "010-2345-2345",
+        "name": "김메시",
+        "people_number": 3,
+        "called_time": "대기중"
+    },
+    {
+        "phone": "010-4312-4312",
+        "name": "손흥민",
+        "people_number": 11,
+        "called_time": "대기중"
+    },
+    {
+        "phone": "010-5474-0525",
+        "name": "손영호",
+        "people_number": 2,
+        "called_time": "대기중"
+    }
+]
